@@ -1,5 +1,5 @@
-import sqlite3
-
+#import sqlite3
+import mysql.connector 
 
 
 con = sqlite3.connect("D:\\curso\\sqlite3\\db\\Chinook")
